@@ -1,0 +1,61 @@
+20:55:20.321 [main] INFO  testCases.Logintestcase - clicked on login button
+20:55:20.334 [main] INFO  testCases.Logintestcase - finished test
+20:56:47.141 [main] INFO  testCases.Logintestcase - Started login testcase
+20:56:48.020 [main] INFO  testCases.Logintestcase - clicked on login link
+20:56:48.239 [main] INFO  testCases.Logintestcase - provider details
+20:56:49.282 [main] INFO  testCases.Logintestcase - clicked on login button
+20:56:49.283 [main] INFO  testCases.Logintestcase - finished test
+21:10:19.995 [main] INFO  testCases.Logintestcase - Started login testcase
+21:10:20.737 [main] INFO  testCases.Logintestcase - clicked on login link
+21:10:20.952 [main] INFO  testCases.Logintestcase - provider details
+21:10:21.559 [main] INFO  testCases.Logintestcase - clicked on login button
+21:10:21.560 [main] INFO  testCases.Logintestcase - finished test
+21:20:32.307 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:20:35.540 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+21:20:35.551 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:20:46.857 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:20:58.467 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:21:10.002 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:21:12.985 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+21:25:05.713 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:25:08.817 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+21:25:08.821 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:25:20.133 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:25:31.697 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:25:43.066 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:25:46.818 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+21:30:49.796 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:30:52.816 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+21:30:52.822 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:31:14.234 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:31:36.139 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:31:57.669 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:32:00.972 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+21:40:04.932 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:40:08.005 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+21:40:08.016 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:40:19.370 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+21:40:19.370 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:40:31.897 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+21:40:31.904 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:40:43.651 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+21:40:43.656 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+21:40:48.230 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+22:16:47.084 [main] INFO  testCases.Logintestcase - Started login testcase
+22:16:47.766 [main] INFO  testCases.Logintestcase - clicked on login link
+22:16:48.054 [main] INFO  testCases.Logintestcase - provider details
+22:16:48.990 [main] INFO  testCases.Logintestcase - clicked on login button
+22:16:48.991 [main] INFO  testCases.Logintestcase - finished test
+22:22:04.104 [main] INFO  testCases.Logintestcase - Started login testcase
+22:22:05.655 [main] INFO  testCases.Logintestcase - clicked on login link
+22:22:05.913 [main] INFO  testCases.Logintestcase - provider details
+22:22:06.882 [main] INFO  testCases.Logintestcase - clicked on login button
+22:22:06.882 [main] INFO  testCases.Logintestcase - finished test
+22:24:40.640 [main] INFO  testCases.Logintestcase - Started login testcase
+22:24:42.597 [main] INFO  testCases.Logintestcase - clicked on login link
+22:24:42.988 [main] INFO  testCases.Logintestcase - provider details
+22:24:44.042 [main] INFO  testCases.Logintestcase - clicked on login button
+22:24:44.042 [main] INFO  testCases.Logintestcase - finished test
+20:30:21.546 [main] INFO  testCases.Logintestcase - Started login testcase
+20:30:23.208 [main] INFO  testCases.Logintestcase - clicked on login link
+20:30:23.452 [main] INFO  testCases.Logintestcase - provider details
